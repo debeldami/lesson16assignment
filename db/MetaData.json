@@ -1,0 +1,84 @@
+{
+    "0": {
+        "file": {
+            "originalname": "unboard yatch ape 0.jpg",
+            "mimetype": "image/jpeg",
+            "filename": "367c7c73abe345fd2c3c088bb25fc709",
+            "size": 128931
+        },
+        "ipfs": {
+            "path": "QmbRJ1TAfD7XNY22YEW6MDRrufXvKTZQiSZnEYdn8J7iZ5",
+            "cid": {
+                "code": 112,
+                "version": 0,
+                "hash": {
+                    "0": 18,
+                    "1": 32,
+                    "2": 194,
+                    "3": 88,
+                    "4": 109,
+                    "5": 109,
+                    "6": 217,
+                    "7": 116,
+                    "8": 50,
+                    "9": 227,
+                    "10": 65,
+                    "11": 70,
+                    "12": 173,
+                    "13": 249,
+                    "14": 127,
+                    "15": 42,
+                    "16": 160,
+                    "17": 197,
+                    "18": 201,
+                    "19": 198,
+                    "20": 130,
+                    "21": 174,
+                    "22": 137,
+                    "23": 147,
+                    "24": 225,
+                    "25": 41,
+                    "26": 108,
+                    "27": 35,
+                    "28": 33,
+                    "29": 16,
+                    "30": 185,
+                    "31": 240,
+                    "32": 28,
+                    "33": 168
+                }
+            },
+            "size": 128945
+        }
+    },
+    "1": {
+        "file": {
+            "originalname": "unboard yatch ape 0.jpg",
+            "mimetype": "image/jpeg",
+            "filename": "974f555bb557c20101eb94c5fba4823b",
+            "size": 128931
+        },
+        "metadata": {
+            "oS": "window",
+            "hoodieColor": "red",
+            "skinTone": "black",
+            "color": "white"
+        }
+    },
+    "2": {
+        "file": {
+            "originalname": "unboard yatch ape 0.jpg",
+            "mimetype": "image/jpeg",
+            "filename": "bc104ff3a0f106ea8c0d5cfc4bde9515",
+            "size": 128931
+        }
+    },
+    "3": {
+        "file": {
+            "originalname": "unboard yatch ape 00000.jpg",
+            "mimetype": "image/jpeg",
+            "filename": "47ca704a0f012daf42dc043e38ac8122",
+            "size": 133023
+        }
+    }
+}
