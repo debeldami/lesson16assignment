@@ -1,0 +1,24 @@
+{
+    "tokenID": 6,
+    "description": "Degen Dev 6",
+    "image": "https://ipfs.io/ipfs/QmNWjuNpxMKrxpA1dsCPigDF8UupjfTcdioq7vJwGYYDVi?filename=DegenDev6.png",
+    "Content-Type": "image/png",
+    "attributes": [
+        {
+            "trait_type": "x-amz-meta-hoodie-color",
+            "value": "sky blue"
+        },
+        {
+            "trait_type": "x-amz-meta-hat-number-color",
+            "value": "white"
+        },
+        {
+            "trait_type": "x-amz-meta-operating-system",
+            "value": "Windows"
+        },
+        {
+            "trait_type": "x-amz-meta-x-amz-meta-developer-skin-tone",
+            "value": "#5D3E3B"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "tokenID": 10,
+    "description": "Degen Dev 10",
+    "image": "https://ipfs.io/ipfs/QmfUsG8yy9HfxnW2N9VbkQQ6vADcoVhhKBF9bG2YTbPCmY?filename=DegenDev10.png",
+    "Content-Type": "image/png",
+    "attributes": [
+        {
+            "trait_type": "x-amz-meta-hoodie-color",
+            "value": "black"
+        },
+        {
+            "trait_type": "x-amz-meta-hat-number-color",
+            "value": "white"
+        },
+        {
+            "trait_type": "x-amz-meta-operating-system",
+            "value": "Linux"
+        },
+        {
+            "trait_type": "x-amz-meta-x-amz-meta-developer-skin-tone",
+            "value": "#AE7C65"
+        }
+    ]
+}
