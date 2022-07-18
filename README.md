@@ -1,6 +1,4 @@
-# degen-devs-api
-Adding metadata to Degen Devs project
-
+# Degen Devs
 - Built a web server and API for providing the features using the RESTful architecture
 - Ran a local node of IPFS
 - Uploaded 10 images to this node
@@ -12,4 +10,6 @@ Adding metadata to Degen Devs project
 Next Steps:
 provide wallet functions in the frontend to buy, transfer, allow, transfer from and burn NFTs!
 
-https://user-images.githubusercontent.com/44388988/179581537-07e6ecf0-cffd-4cf6-8cc5-d500b2254655.png)
+![alt text]([http://url/to/img.png](https://user-images.githubusercontent.com/44388988/179581537-07e6ecf0-cffd-4cf6-8cc5-d500b2254655.png)
+))
+
