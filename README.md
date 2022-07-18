@@ -10,6 +10,6 @@
 Next Steps:
 provide wallet functions in the frontend to buy, transfer, allow, transfer from and burn NFTs!
 
-![alt text]([http://url/to/img.png](https://user-images.githubusercontent.com/44388988/179581537-07e6ecf0-cffd-4cf6-8cc5-d500b2254655.png)
-))
+![Alt text]([http://url/to/img.png](https://user-images.githubusercontent.com/44388988/179581537-07e6ecf0-cffd-4cf6-8cc5-d500b2254655.png "DegenDevs")
+
 
