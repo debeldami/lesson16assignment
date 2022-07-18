@@ -10,7 +10,11 @@
 - provide wallet functions in the frontend to buy, transfer, allow, transfer from and burn NFTs!
 - Deployed the NFT Collection and mint 10 NFTs, and assign the API endpoint to the token URI
 
+<img
+  src="https://media.discordapp.net/attachments/994296487783706725/998657474393542716/degendevs_frontend.png"
+  alt="Alt text"
+  title="Degen Developers"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-<img src="[/path/to/img.jpg](https://user-images.githubusercontent.com/44388988/179581537-07e6ecf0-cffd-4cf6-8cc5-d500b2254655.png)" alt="Alt text" title="Degen Devs">
 
 
