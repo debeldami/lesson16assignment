@@ -11,7 +11,10 @@ const app: Express = express();
 
 app.use(express.json());
 
-const port = process.env.PORT;
+const cors = require('cors')
+app.use(cors());
+
+const port = 8080;
 
 app.get("/", (req: Request, res: Response) => {
   let data = db.getData(`/`);

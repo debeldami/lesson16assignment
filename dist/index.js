@@ -7,6 +7,8 @@ const express_1 = __importDefault(require("express"));
 const dotenv_1 = __importDefault(require("dotenv"));
 const node_json_db_1 = require("node-json-db");
 const JsonDBConfig_1 = require("node-json-db/dist/lib/JsonDBConfig");
+const cors = require('cors');
+app.use(cors());
 dotenv_1.default.config();
 let db = new node_json_db_1.JsonDB(new JsonDBConfig_1.Config("db/MetaData", true, true, "/"));
 const app = (0, express_1.default)();
