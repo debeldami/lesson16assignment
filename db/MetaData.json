@@ -1,84 +1,242 @@
 {
-    "0": {
-        "file": {
-            "originalname": "unboard yatch ape 0.jpg",
-            "mimetype": "image/jpeg",
-            "filename": "367c7c73abe345fd2c3c088bb25fc709",
-            "size": 128931
-        },
-        "ipfs": {
-            "path": "QmbRJ1TAfD7XNY22YEW6MDRrufXvKTZQiSZnEYdn8J7iZ5",
-            "cid": {
-                "code": 112,
-                "version": 0,
-                "hash": {
-                    "0": 18,
-                    "1": 32,
-                    "2": 194,
-                    "3": 88,
-                    "4": 109,
-                    "5": 109,
-                    "6": 217,
-                    "7": 116,
-                    "8": 50,
-                    "9": 227,
-                    "10": 65,
-                    "11": 70,
-                    "12": 173,
-                    "13": 249,
-                    "14": 127,
-                    "15": 42,
-                    "16": 160,
-                    "17": 197,
-                    "18": 201,
-                    "19": 198,
-                    "20": 130,
-                    "21": 174,
-                    "22": 137,
-                    "23": 147,
-                    "24": 225,
-                    "25": 41,
-                    "26": 108,
-                    "27": 35,
-                    "28": 33,
-                    "29": 16,
-                    "30": 185,
-                    "31": 240,
-                    "32": 28,
-                    "33": 168
-                }
-            },
-            "size": 128945
-        }
-    },
-    "1": {
-        "file": {
-            "originalname": "unboard yatch ape 0.jpg",
-            "mimetype": "image/jpeg",
-            "filename": "974f555bb557c20101eb94c5fba4823b",
-            "size": 128931
-        },
-        "metadata": {
-            "oS": "window",
-            "hoodieColor": "red",
-            "skinTone": "black",
-            "color": "white"
-        }
-    },
-    "2": {
-        "file": {
-            "originalname": "unboard yatch ape 0.jpg",
-            "mimetype": "image/jpeg",
-            "filename": "bc104ff3a0f106ea8c0d5cfc4bde9515",
-            "size": 128931
-        }
-    },
-    "3": {
-        "file": {
-            "originalname": "unboard yatch ape 00000.jpg",
-            "mimetype": "image/jpeg",
-            "filename": "47ca704a0f012daf42dc043e38ac8122",
-            "size": 133023
-        }
-    }
+  "1": {
+    "tokenID": 1,
+    "description": "Degen Dev 1",
+    "image": "https://ipfs.io/ipfs/QmdyhgzASJWEAtF2ZFuqBnL4L3FR5NxcspvsgZhaBbLNxf?filename=DegenDev1.png",
+    "Content-Type": "image/png",
+    "attributes": [
+      {
+        "trait_type": "x-amz-meta-hoodie-color",
+        "value": "white"
+      },
+      {
+        "trait_type": "x-amz-meta-hat-number-color",
+        "value": "red"
+      },
+      {
+        "trait_type": "x-amz-meta-operating-system",
+        "value": "Apple"
+      },
+      {
+        "trait_type": "x-amz-meta-x-amz-meta-developer-skin-tone",
+        "value": "#FAD493"
+      }
+    ]
+  },
+  "2": {
+    "tokenID": 2,
+    "description": "Degen Dev 2",
+    "image": "https://ipfs.io/ipfs/QmXCkQyfVuTpGytapCQCozoaHiKjfvsUvSwnX6tJeV3W5i?filename=DegenDev2.png",
+    "Content-Type": "image/png",
+    "attributes": [
+      {
+        "trait_type": "x-amz-meta-hoodie-color",
+        "value": "grey"
+      },
+      {
+        "trait_type": "x-amz-meta-hat-number-color",
+        "value": "white"
+      },
+      {
+        "trait_type": "x-amz-meta-operating-system",
+        "value": "Apple"
+      },
+      {
+        "trait_type": "x-amz-meta-x-amz-meta-developer-skin-tone",
+        "value": "#FAD493"
+      }
+    ]
+  },
+  "3": {
+    "tokenID": 3,
+    "description": "Degen Dev 3",
+    "image": "https://ipfs.io/ipfs/QmQbaMM9NdAJ5BsKDfgWCZgSRxVAfii8rLzBfZBpHjJ8xg?filename=DegenDev3.png",
+    "Content-Type": "image/png",
+    "attributes": [
+      {
+        "trait_type": "x-amz-meta-hoodie-color",
+        "value": "lime green"
+      },
+      {
+        "trait_type": "x-amz-meta-hat-number-color",
+        "value": "lime green"
+      },
+      {
+        "trait_type": "x-amz-meta-operating-system",
+        "value": "Apple"
+      },
+      {
+        "trait_type": "x-amz-meta-x-amz-meta-developer-skin-tone",
+        "value": "#FAD493"
+      }
+    ]
+  },
+  "4": {
+    "tokenID": 4,
+    "description": "Degen Dev 4",
+    "image": "https://ipfs.io/ipfs/QmRWxhAbJCN53ZVwHvCQbSXwSLxmUyATpqMqcrKYawEEev?filename=DegenDev4.png",
+    "Content-Type": "image/png",
+    "attributes": [
+      {
+        "trait_type": "x-amz-meta-hoodie-color",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "x-amz-meta-hat-number-color",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "x-amz-meta-operating-system",
+        "value": "Apple"
+      },
+      {
+        "trait_type": "x-amz-meta-x-amz-meta-developer-skin-tone",
+        "value": "#FBD5C0"
+      }
+    ]
+  },
+  "5": {
+    "tokenID": 5,
+    "description": "Degen Dev 5",
+    "image": "https://ipfs.io/ipfs/QmWfzKDefhAPhDcWDYHNvxwBZjJ36vQbhY1iNV7QoPDrHB?filename=DegenDev5.png",
+    "Content-Type": "image/png",
+    "attributes": [
+      {
+        "trait_type": "x-amz-meta-hoodie-color",
+        "value": "pink"
+      },
+      {
+        "trait_type": "x-amz-meta-hat-number-color",
+        "value": "white"
+      },
+      {
+        "trait_type": "x-amz-meta-operating-system",
+        "value": "Windows"
+      },
+      {
+        "trait_type": "x-amz-meta-x-amz-meta-developer-skin-tone",
+        "value": "#FAD493"
+      }
+    ]
+  },
+  "6": {
+    "tokenID": 6,
+    "description": "Degen Dev 6",
+    "image": "https://ipfs.io/ipfs/QmNWjuNpxMKrxpA1dsCPigDF8UupjfTcdioq7vJwGYYDVi?filename=DegenDev6.png",
+    "Content-Type": "image/png",
+    "attributes": [
+      {
+        "trait_type": "x-amz-meta-hoodie-color",
+        "value": "sky blue"
+      },
+      {
+        "trait_type": "x-amz-meta-hat-number-color",
+        "value": "white"
+      },
+      {
+        "trait_type": "x-amz-meta-operating-system",
+        "value": "Windows"
+      },
+      {
+        "trait_type": "x-amz-meta-x-amz-meta-developer-skin-tone",
+        "value": "#5D3E3B"
+      }
+    ]
+  },
+  "7": {
+    "tokenID": 7,
+    "description": "Degen Dev 7",
+    "image": "https://ipfs.io/ipfs/QmWsmoCMfLzrEPKJMyVZqhtzHxfCv4zMtB26z5C4MgHEba?filename=DegenDev7.png",
+    "Content-Type": "image/png",
+    "attributes": [
+      {
+        "trait_type": "x-amz-meta-hoodie-color",
+        "value": "orange"
+      },
+      {
+        "trait_type": "x-amz-meta-hat-number-color",
+        "value": "white"
+      },
+      {
+        "trait_type": "x-amz-meta-operating-system",
+        "value": "Windows"
+      },
+      {
+        "trait_type": "x-amz-meta-x-amz-meta-developer-skin-tone",
+        "value": "#FBD5C0"
+      }
+    ]
+  },
+  "8": {
+    "tokenID": 8,
+    "description": "Degen Dev 8",
+    "image": "https://ipfs.io/ipfs/QmYqYhpjkaQd11VRLM6CUHXju3qoz3NU7KmwvTHJmNnpXN?filename=DegenDev8.png",
+    "Content-Type": "image/png",
+    "attributes": [
+      {
+        "trait_type": "x-amz-meta-hoodie-color",
+        "value": "red"
+      },
+      {
+        "trait_type": "x-amz-meta-hat-number-color",
+        "value": "white"
+      },
+      {
+        "trait_type": "x-amz-meta-operating-system",
+        "value": "Linux"
+      },
+      {
+        "trait_type": "x-amz-meta-x-amz-meta-developer-skin-tone",
+        "value": "#BA5C21"
+      }
+    ]
+  },
+  "9": {
+    "tokenID": 9,
+    "description": "Degen Dev 9",
+    "image": "https://ipfs.io/ipfs/QmWNS9DdbdpwYV2pcq28WUPyfHbEt1kcQzWFGaQRrzorUD?filename=DegenDev9.png",
+    "Content-Type": "image/png",
+    "attributes": [
+      {
+        "trait_type": "x-amz-meta-hoodie-color",
+        "value": "purple"
+      },
+      {
+        "trait_type": "x-amz-meta-hat-number-color",
+        "value": "white"
+      },
+      {
+        "trait_type": "x-amz-meta-operating-system",
+        "value": "Linux"
+      },
+      {
+        "trait_type": "x-amz-meta-x-amz-meta-developer-skin-tone",
+        "value": "#ED9D8C"
+      }
+    ]
+  },
+  "10": {
+    "tokenID": 10,
+    "description": "Degen Dev 10",
+    "image": "https://ipfs.io/ipfs/QmfUsG8yy9HfxnW2N9VbkQQ6vADcoVhhKBF9bG2YTbPCmY?filename=DegenDev10.png",
+    "Content-Type": "image/png",
+    "attributes": [
+      {
+        "trait_type": "x-amz-meta-hoodie-color",
+        "value": "black"
+      },
+      {
+        "trait_type": "x-amz-meta-hat-number-color",
+        "value": "white"
+      },
+      {
+        "trait_type": "x-amz-meta-operating-system",
+        "value": "Linux"
+      },
+      {
+        "trait_type": "x-amz-meta-x-amz-meta-developer-skin-tone",
+        "value": "#AE7C65"
+      }
+    ]
+  }
 }
